@@ -1,0 +1,161 @@
+Jame Poodle Adult Male 	Fire  10000
+Jame Poodle Adult Male 	Fire  10000
+Jame Poodle Adult Male 	Fire  10000
+Jame Poodle Adult Male 	Fire  10000
+Jame Poodle Adult Male 	Fire  10000
+Jame Poodle Adult Male 	Fire  10000
+Jame Poodle Adult Male 	Fire  10000
+Jame Poodle Adult Male 	Fire  10000
+Jame Poodle Adult Male 	Fire  10000
+Jame Poodle Adult Male 	Fire  10000
+John Labrador Children Male Ice 16000
+John Labrador Children Male Ice 16000
+John Labrador Children Male Ice 16000
+John Labrador Children Male Ice 16000
+John Labrador Children Male Ice 16000
+John Labrador Children Male Ice 16000
+
+If you want to exit. Pls enter _n_
+
+Go back to main. Pls enter _s_
+
+Please select SuperDog for fighting.
+
+List: 1.Jame 2.John 3.Jane 4.June 5.Jake
+
+Enter RedDog: 
+2
+John Labrador Children Male Ice 16000
+Enter BlueDog: 
+3
+Jane Beagle Old Female Fire 13000
+Result
+RedDog: Ice Attack 1600 damage. Hp: 13400
+BlueDog: Fire Attack 1300 damage. Hp: 9800
+RedDog: Ice Attack 1600 damage. Hp: 12100
+BlueDog: Fire Attack 1300 damage. Hp: 8200
+RedDog: Ice Attack 1600 damage. Hp: 10800
+BlueDog: Fire Attack 1300 damage. Hp: 6600
+RedDog: Ice Attack 1600 damage. Hp: 9500
+BlueDog: Fire Attack 1300 damage. Hp: 5000
+RedDog: Ice Attack 1600 damage. Hp: 8200
+BlueDog: Fire Attack 1300 damage. Hp: 3400
+RedDog: Ice Attack 1600 damage. Hp: 6900
+BlueDog: Fire Attack 1300 damage. Hp: 1800
+RedDog: Ice Attack 1600 damage. Hp: 5600
+BlueDog: Fire Attack 1300 damage. Hp: 200
+
+Winner: RedDog
+
+If you want to exit. Pls enter _n_
+
+Go back to main. Pls enter _s_
+
+Please select SuperDog for fighting.
+
+List: 1.Jame 2.John 3.Jane 4.June 5.Jake
+
+Enter RedDog: 
+4
+June Pitbull Adult Female Ice 17000
+Enter BlueDog: 
+1
+Jame Poodle Adult Male 	Fire  10000
+Result
+RedDog: Ice Attack 1700 damage. Hp: 15000
+BlueDog: Fire Attack 1000 damage. Hp: 6600
+RedDog: Ice Attack 1700 damage. Hp: 14000
+BlueDog: Fire Attack 1000 damage. Hp: 4900
+RedDog: Ice Attack 1700 damage. Hp: 13000
+BlueDog: Fire Attack 1000 damage. Hp: 3200
+RedDog: Ice Attack 1700 damage. Hp: 12000
+BlueDog: Fire Attack 1000 damage. Hp: 1500
+
+Winner: RedDog
+
+If you want to exit. Pls enter _n_
+
+Go back to main. Pls enter _s_
+
+Please select SuperDog for fighting.
+
+List: 1.Jame 2.John 3.Jane 4.June 5.Jake
+
+Enter RedDog: 
+n
+Jame Poodle Adult Male 	Fire  10000
+Jame Poodle Adult Male 	Fire  10000
+Jame Poodle Adult Male 	Fire  10000
+Jame Poodle Adult Male 	Fire  10000
+Jame Poodle Adult Male 	Fire  10000
+
+If you want to exit. Pls enter _n_
+
+Go back to main. Pls enter _s_
+
+Please select SuperDog for fighting.
+
+List: 1.Jame 2.John 3.Jane 4.June 5.Jake
+
+Enter RedDog: 
+1
+Jame Poodle Adult Male 	Fire  10000
+Enter BlueDog: 
+2
+John Labrador Children Male Ice 16000
+Result
+RedDog: Fire Attack 1000 damage. Hp: 6800
+BlueDog: Ice Attack 1600 damage. Hp: 14000
+RedDog: Fire Attack 1000 damage. Hp: 5200
+BlueDog: Ice Attack 1600 damage. Hp: 13000
+RedDog: Fire Attack 1000 damage. Hp: 3600
+BlueDog: Ice Attack 1600 damage. Hp: 12000
+RedDog: Fire Attack 1000 damage. Hp: 2000
+BlueDog: Ice Attack 1600 damage. Hp: 11000
+RedDog: Fire Attack 1000 damage. Hp: 400
+BlueDog: Ice Attack 1600 damage. Hp: 10000
+
+Winner: BlueDog
+
+If you want to exit. Pls enter _n_
+
+Go back to main. Pls enter _s_
+
+Please select SuperDog for fighting.
+
+List: 1.Jame 2.John 3.Jane 4.June 5.Jake
+
+Enter RedDog: 
+2
+John Labrador Children Male Ice 16000
+Enter BlueDog: 
+3
+Jane Beagle Old Female Fire 13000
+Result
+RedDog: Ice Attack 1600 damage. Hp: 13400
+BlueDog: Fire Attack 1300 damage. Hp: 9800
+RedDog: Ice Attack 1600 damage. Hp: 12100
+BlueDog: Fire Attack 1300 damage. Hp: 8200
+RedDog: Ice Attack 1600 damage. Hp: 10800
+BlueDog: Fire Attack 1300 damage. Hp: 6600
+RedDog: Ice Attack 1600 damage. Hp: 9500
+BlueDog: Fire Attack 1300 damage. Hp: 5000
+RedDog: Ice Attack 1600 damage. Hp: 8200
+BlueDog: Fire Attack 1300 damage. Hp: 3400
+RedDog: Ice Attack 1600 damage. Hp: 6900
+BlueDog: Fire Attack 1300 damage. Hp: 1800
+RedDog: Ice Attack 1600 damage. Hp: 5600
+BlueDog: Fire Attack 1300 damage. Hp: 200
+
+Winner: RedDog
+
+If you want to exit. Pls enter _n_
+
+Go back to main. Pls enter _s_
+
+Please select SuperDog for fighting.
+
+List: 1.Jame 2.John 3.Jane 4.June 5.Jake
+
+Enter RedDog: 
+n

@@ -1,0 +1,32 @@
+
+If you want to exit. Pls enter _n_
+Go to Arena. Pls enter _a_
+List: 1.Jame 2.John 3.Jane 4.June 5.Jake
+Select dog: 
+If you want to change dog after selection. Pls enter _s_If you want to exit. Pls enter _n_
+
+Command
+1.Run
+2.Walk
+3.Eat
+4.Sit
+5.Bark
+6.PowerCommand: 
+If you want to change dog after selection. Pls enter _s_If you want to exit. Pls enter _n_
+
+Command
+1.Run
+2.Walk
+3.Eat
+4.Sit
+5.Bark
+6.PowerCommand: 
+If you want to change dog after selection. Pls enter _s_If you want to exit. Pls enter _n_
+
+Command
+1.Run
+2.Walk
+3.Eat
+4.Sit
+5.Bark
+6.PowerCommand: 

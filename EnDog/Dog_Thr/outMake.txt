@@ -1,0 +1,115 @@
+Dog list:
+1.Jame Poodle Adult Male 1000 Fire
+2.John Labrador Children Male 1600 Ice
+3.Jane Beagle Adult Female 1300 Fire
+4.June Pitbull Adult Male 1700 Ice
+5.Jake Bulldog Old Male 1400 Bite
+Menu. Enter _m_
+Select: 
+1
+You select: Jame
+Jame I can run.
+Jame Walk
+Jame Eat
+Jame Sit
+Jame Bark
+Jame Fire
+Dog list:
+1.Jame Poodle Adult Male 1000 Fire
+2.John Labrador Children Male 1600 Ice
+3.Jane Beagle Adult Female 1300 Fire
+4.June Pitbull Adult Male 1700 Ice
+5.Jake Bulldog Old Male 1400 Bite
+Menu. Enter _m_
+Select: 
+q
+Please select number.
+Dog list:
+1.Jame Poodle Adult Male 1000 Fire
+2.John Labrador Children Male 1600 Ice
+3.Jane Beagle Adult Female 1300 Fire
+4.June Pitbull Adult Male 1700 Ice
+5.Jake Bulldog Old Male 1400 Bite
+Menu. Enter _m_
+Select: 
+1
+You select: Jame
+Jame I can run.
+Jame Walk
+Jame Eat
+Jame Sit
+Jame Bark
+Jame Fire
+Dog list:
+1.Jame Poodle Adult Male 1000 Fire
+2.John Labrador Children Male 1600 Ice
+3.Jane Beagle Adult Female 1300 Fire
+4.June Pitbull Adult Male 1700 Ice
+5.Jake Bulldog Old Male 1400 Bite
+Menu. Enter _m_
+Select: 
+2
+You select: John
+John I can run.
+John Walk
+John Eat
+John Sit
+John Bark
+John Ice
+Dog list:
+1.Jame Poodle Adult Male 1000 Fire
+2.John Labrador Children Male 1600 Ice
+3.Jane Beagle Adult Female 1300 Fire
+4.June Pitbull Adult Male 1700 Ice
+5.Jake Bulldog Old Male 1400 Bite
+Menu. Enter _m_
+Select: 
+3
+You select: Jane
+Jane I can run.
+Jane Walk
+Jane Eat
+Jane Sit
+Jane Bark
+Jane Fire
+Dog list:
+1.Jame Poodle Adult Male 1000 Fire
+2.John Labrador Children Male 1600 Ice
+3.Jane Beagle Adult Female 1300 Fire
+4.June Pitbull Adult Male 1700 Ice
+5.Jake Bulldog Old Male 1400 Bite
+Menu. Enter _m_
+Select: 
+4
+You select: June
+June I can run.
+June Walk
+June Eat
+June Sit
+June Bark
+June Ice
+Dog list:
+1.Jame Poodle Adult Male 1000 Fire
+2.John Labrador Children Male 1600 Ice
+3.Jane Beagle Adult Female 1300 Fire
+4.June Pitbull Adult Male 1700 Ice
+5.Jake Bulldog Old Male 1400 Bite
+Menu. Enter _m_
+Select: 
+5
+You select: Jake
+Jake I can't run.
+Jake Walk
+Jake Eat
+Jake Sit
+Jake Bark
+Jake Bite
+Dog list:
+1.Jame Poodle Adult Male 1000 Fire
+2.John Labrador Children Male 1600 Ice
+3.Jane Beagle Adult Female 1300 Fire
+4.June Pitbull Adult Male 1700 Ice
+5.Jake Bulldog Old Male 1400 Bite
+Menu. Enter _m_
+Select: 
+m

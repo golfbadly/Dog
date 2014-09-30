@@ -1,0 +1,361 @@
+
+If you want to exit. Pls enter _n_
+
+Go to Arena. Pls enter _a_
+
+List: 1.Jame 2.John 3.Jane 4.June 5.Jake
+
+Select dog: 
+1
+Jame Poodle Adult Male 	Fire  10000
+
+If you want to change dog after selection. Pls enter _s_
+If you want to exit. Pls enter _n_
+
+Jame Poodle Adult Male 	Fire  10000
+
+Command
+1.Run
+2.Walk
+3.Eat
+4.Sit
+5.Bark
+6.Power
+Command: 
+2
+
+I will walk with you.
+
+If you want to change dog after selection. Pls enter _s_
+If you want to exit. Pls enter _n_
+
+Jame Poodle Adult Male 	Fire  10000
+
+Command
+1.Run
+2.Walk
+3.Eat
+4.Sit
+5.Bark
+6.Power
+Command: 
+3
+
+I only eat dog food.
+
+If you want to change dog after selection. Pls enter _s_
+If you want to exit. Pls enter _n_
+
+Jame Poodle Adult Male 	Fire  10000
+
+Command
+1.Run
+2.Walk
+3.Eat
+4.Sit
+5.Bark
+6.Power
+Command: 
+1
+I can run very fast.
+
+If you want to change dog after selection. Pls enter _s_
+If you want to exit. Pls enter _n_
+
+Jame Poodle Adult Male 	Fire  10000
+
+Command
+1.Run
+2.Walk
+3.Eat
+4.Sit
+5.Bark
+6.Power
+Command: 
+n
+
+If you want to exit. Pls enter _n_
+
+Go to Arena. Pls enter _a_
+
+List: 1.Jame 2.John 3.Jane 4.June 5.Jake
+
+Select dog: 
+1
+Jame Poodle Adult Male 	Fire  10000
+
+If you want to change dog after selection. Pls enter _s_
+If you want to exit. Pls enter _n_
+
+Jame Poodle Adult Male 	Fire  10000
+
+Command
+1.Run
+2.Walk
+3.Eat
+4.Sit
+5.Bark
+6.Power
+Command: 
+1
+I can run very fast.
+
+If you want to change dog after selection. Pls enter _s_
+If you want to exit. Pls enter _n_
+
+Jame Poodle Adult Male 	Fire  10000
+
+Command
+1.Run
+2.Walk
+3.Eat
+4.Sit
+5.Bark
+6.Power
+Command: 
+2
+
+I will walk with you.
+
+If you want to change dog after selection. Pls enter _s_
+If you want to exit. Pls enter _n_
+
+Jame Poodle Adult Male 	Fire  10000
+
+Command
+1.Run
+2.Walk
+3.Eat
+4.Sit
+5.Bark
+6.Power
+Command: 
+3
+
+I only eat dog food.
+
+If you want to change dog after selection. Pls enter _s_
+If you want to exit. Pls enter _n_
+
+Jame Poodle Adult Male 	Fire  10000
+
+Command
+1.Run
+2.Walk
+3.Eat
+4.Sit
+5.Bark
+6.Power
+Command: 
+s
+
+If you want to exit. Pls enter _n_
+
+Go to Arena. Pls enter _a_
+
+List: 1.Jame 2.John 3.Jane 4.June 5.Jake
+
+Select dog: 
+2
+John Labrador Children Male Ice 16000
+
+If you want to change dog after selection. Pls enter _s_
+If you want to exit. Pls enter _n_
+
+John Labrador Children Male Ice 16000
+
+Command
+1.Run
+2.Walk
+3.Eat
+4.Sit
+5.Bark
+6.Power
+Command: 
+3
+
+I only eat dog food.
+
+If you want to change dog after selection. Pls enter _s_
+If you want to exit. Pls enter _n_
+
+John Labrador Children Male Ice 16000
+
+Command
+1.Run
+2.Walk
+3.Eat
+4.Sit
+5.Bark
+6.Power
+Command: 
+4
+
+I'm sitting.
+
+If you want to change dog after selection. Pls enter _s_
+If you want to exit. Pls enter _n_
+
+John Labrador Children Male Ice 16000
+
+Command
+1.Run
+2.Walk
+3.Eat
+4.Sit
+5.Bark
+6.Power
+Command: 
+5
+
+BOX BOX BOX!
+
+If you want to change dog after selection. Pls enter _s_
+If you want to exit. Pls enter _n_
+
+John Labrador Children Male Ice 16000
+
+Command
+1.Run
+2.Walk
+3.Eat
+4.Sit
+5.Bark
+6.Power
+Command: 
+6
+Ice!!!!
+
+If you want to change dog after selection. Pls enter _s_
+If you want to exit. Pls enter _n_
+
+John Labrador Children Male Ice 16000
+
+Command
+1.Run
+2.Walk
+3.Eat
+4.Sit
+5.Bark
+6.Power
+Command: 
+s
+
+If you want to exit. Pls enter _n_
+
+Go to Arena. Pls enter _a_
+
+List: 1.Jame 2.John 3.Jane 4.June 5.Jake
+
+Select dog: 
+a
+John Labrador Children Male Ice 16000
+Jane Beagle Old Female Fire 13000
+June Pitbull Adult Female Ice 17000
+Jame Poodle Adult Male 	Fire  10000
+
+If you want to exit. Pls enter _n_
+
+Go to Arena. Pls enter _a_
+
+List: 1.Jame 2.John 3.Jane 4.June 5.Jake
+
+Select dog: 
+n
+
+If you want to exit. Pls enter _n_
+
+Go to Arena. Pls enter _a_
+
+List: 1.Jame 2.John 3.Jane 4.June 5.Jake
+
+Select dog: 
+n
+
+If you want to exit. Pls enter _n_
+
+Go to Arena. Pls enter _a_
+
+List: 1.Jame 2.John 3.Jane 4.June 5.Jake
+
+Select dog: 
+1
+Jame Poodle Adult Male 	Fire  10000
+
+If you want to change dog after selection. Pls enter _s_
+If you want to exit. Pls enter _n_
+
+Jame Poodle Adult Male 	Fire  10000
+
+Command
+1.Run
+2.Walk
+3.Eat
+4.Sit
+5.Bark
+6.Power
+Command: 
+1
+I can run very fast.
+
+If you want to change dog after selection. Pls enter _s_
+If you want to exit. Pls enter _n_
+
+Jame Poodle Adult Male 	Fire  10000
+
+Command
+1.Run
+2.Walk
+3.Eat
+4.Sit
+5.Bark
+6.Power
+Command: 
+2
+
+I will walk with you.
+
+If you want to change dog after selection. Pls enter _s_
+If you want to exit. Pls enter _n_
+
+Jame Poodle Adult Male 	Fire  10000
+
+Command
+1.Run
+2.Walk
+3.Eat
+4.Sit
+5.Bark
+6.Power
+Command: 
+3
+
+I only eat dog food.
+
+If you want to change dog after selection. Pls enter _s_
+If you want to exit. Pls enter _n_
+
+Jame Poodle Adult Male 	Fire  10000
+
+Command
+1.Run
+2.Walk
+3.Eat
+4.Sit
+5.Bark
+6.Power
+Command: 
+s
+
+If you want to exit. Pls enter _n_
+
+Go to Arena. Pls enter _a_
+
+List: 1.Jame 2.John 3.Jane 4.June 5.Jake
+
+Select dog: 
+a
+Jame Poodle Adult Male 	Fire  10000
+John Labrador Children Male Ice 16000
+John Labrador Children Male Ice 16000
+Jane Beagle Old Female Fire 13000
